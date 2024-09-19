@@ -86,8 +86,8 @@ paginate_path:         /:num/
 # Theme theme for testing jekyl in vscode, remote theme for commiting to github
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-#remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
