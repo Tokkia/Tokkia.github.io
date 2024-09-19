@@ -2,17 +2,17 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Lillian Xiao
+  email:             lillian.xiao.official@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    I'm majoring in Computer Science w/ Business Applications student at UC Riverside. 
+    My experience ranges from developing data analysis using Python to creating responsive websites with React JS. <br> <br>
+    I love tackling complex problems and have honed my skills through competitive coding and tutoring college students in C++. 
+    Currently I’m learning ReactJS and Python in my free time. I'm always eager to learn and take on new challenges in and outside of software development. 
+
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +26,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          Tokkia
+    email:           lillian.xiao.official@gmail.com
+    linkedin:        xiao-lill
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -57,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -65,18 +65,3 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
-
-# Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
